@@ -123,3 +123,5 @@ C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAP
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\NATEA\OneDrive\Desktop\C#Classwork\Projects\ElevenNote\ElevenNote.WebAPI\bin\WebActivatorEx.dll
